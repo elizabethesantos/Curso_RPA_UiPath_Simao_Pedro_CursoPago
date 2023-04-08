@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+InFOpGeEm/ngl4+UkqpK/H38cTiAa7vnH5dVCYp9toLIQaNSBviSVz4ineNNE2jBAp0Tux9+SJxd5qYUWZlwA==",
+  "dgSpecHash": "va217AW5nSd1XxWxNLcuhUhxHoaIsDZoXOGONk+7N7GoMB1xOHqm4qhI1zjDBZko98+4LFWt7jQGGBbl5hWPDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\CATALOG\\Documents\\UiPath\\Curso_RPA_UiPath_Simao_Pedro_CursoPago\\Robo02_MestreRPA_Extracao\\.local\\",
   "expectedPackageFiles": [
@@ -270,7 +270,7 @@
     "C:\\Users\\CATALOG\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\uipath.activities.runtimegovernance.1.1.6.nupkg.sha512",
     "C:\\Users\\CATALOG\\.nuget\\packages\\uipath.codedworkflows\\23.2.0-alpha.3503132\\uipath.codedworkflows.23.2.0-alpha.3503132.nupkg.sha512",
     "C:\\Users\\CATALOG\\.nuget\\packages\\uipath.connectionclient\\1.4.1\\uipath.connectionclient.1.4.1.nupkg.sha512",
-    "C:\\Users\\CATALOG\\AppData\\Local\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.19.0-preview\\uipath.excel.activities.2.19.0-preview.nupkg.sha512",
+    "C:\\Users\\CATALOG\\.nuget\\packages\\uipath.excel.activities\\2.20.0-preview\\uipath.excel.activities.2.20.0-preview.nupkg.sha512",
     "C:\\Users\\CATALOG\\.nuget\\packages\\uipath.imageprocessing\\22.12.0-preview\\uipath.imageprocessing.22.12.0-preview.nupkg.sha512",
     "C:\\Users\\CATALOG\\.nuget\\packages\\uipath.mail.activities\\1.18.2\\uipath.mail.activities.1.18.2.nupkg.sha512",
     "C:\\Users\\CATALOG\\.nuget\\packages\\uipath.ocr.activities\\3.13.0-preview\\uipath.ocr.activities.3.13.0-preview.nupkg.sha512",
@@ -284,5 +284,22 @@
     "C:\\Users\\CATALOG\\AppData\\Local\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.2.0-preview\\uipath.uiautomation.activities.runtime.23.2.0-preview.nupkg.sha512",
     "C:\\Users\\CATALOG\\.nuget\\packages\\uipath.vision\\3.8.0-preview\\uipath.vision.3.8.0-preview.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\CATALOG\\Documents\\UiPath\\Curso_RPA_UiPath_Simao_Pedro_CursoPago\\Robo02_MestreRPA_Extracao\\.local",
+      "message": "Failed to retrieve information about 'UiPath.Excel.Activities' from remote source 'https://cloud.uipath.com/suzanocoecss/QA/orchestrator_/nuget/v3/3569d847d8b343f9a21d432fb699a46b/packages/uipath.excel.activities/index.json'.",
+      "libraryId": "UiPath.Excel.Activities"
+    },
+    {
+      "code": "NU1801",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\CATALOG\\Documents\\UiPath\\Curso_RPA_UiPath_Simao_Pedro_CursoPago\\Robo02_MestreRPA_Extracao\\.local",
+      "message": "Failed to retrieve information about 'UiPath.Excel.Activities' from remote source 'https://cloud.uipath.com/suzanocoecss/QA/orchestrator_/nuget/v3/3569d847d8b343f9a21d432fb699a46b/packages/uipath.excel.activities/index.json'.",
+      "libraryId": "UiPath.Excel.Activities"
+    }
+  ]
 }
